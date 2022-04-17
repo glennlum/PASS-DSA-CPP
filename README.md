@@ -42,3 +42,11 @@ https://ict283.github.io/ict283pass/
 - Introduction to Maps
 - Introduction to Sets
 - Assignment 1 Discussion
+
+# Session 6
+- Recursion & Iteration
+- Sequential & Random Access
+- Introduction to Linked Lists
+- Introduction to Stacks
+- Introduction to Queues
+- OOP & FNAF
