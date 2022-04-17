@@ -1,0 +1,102 @@
+ void GUI::showStartScreen()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|           0 SUPER            |"<<endl;
+    cout<<"|           0 GREEDY           |"<<endl;
+    cout<<"|           0 COINMAN          |"<<endl;
+    cout<<"|             (^_^)            |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}
+
+void GUI::showCoinLeft()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"| O           (^_^)            |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<" Left[1]    Jump[2]    Right[3] "<<endl;
+}
+
+void GUI::takeCoinLeft()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|  +1                          |"<<endl;
+    cout<<"|(^o^)                         |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}
+
+void GUI::noCoinLeft()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|  X                           |"<<endl;
+    cout<<"|(*_*)                         |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}
+
+void GUI::showCoinRight()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|             (^_^)          O |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<" Left[1]    Jump[2]    Right[3] "<<endl;
+}
+
+void GUI::takeCoinRight()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                           +1 |"<<endl;
+    cout<<"|                         (^o^)|"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}
+
+void GUI::noCoinRight()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|                           X  |"<<endl;
+    cout<<"|                         (*_*)|"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}
+
+void GUI::showCoinAbove()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|               O              |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|             (^_^)            |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<" Left[1]    Jump[2]    Right[3] "<<endl;
+}
+
+void GUI::takeCoinAbove()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|               +1             |"<<endl;
+    cout<<"|             (^o^)            |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|           {{     }}          |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}
+
+void GUI::noCoinAbove()
+{
+    cout<<"|——————————————————————————————|"<<endl;
+    cout<<"|               X              |"<<endl;
+    cout<<"|             (*_*)            |"<<endl;
+    cout<<"|                              |"<<endl;
+    cout<<"|           {{     }}          |"<<endl;
+    cout<<"|——————————————————————————————|"<<endl;
+}

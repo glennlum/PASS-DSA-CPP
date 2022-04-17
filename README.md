@@ -25,3 +25,11 @@ https://ict283.github.io/ict283pass/
 - Introduction to STL
 - Template Classes
 - Introduction to Vectors
+
+# Session 4
+- OOP & Super Mario Bros.
+- Class Types (1 of 2)
+- Inheritance and Polymorphism (1 of 2)
+- Pointers: Shallow Copy vs. Deep Copy
+- Assignment 1 Discussion
+- STL Implemented Vector Class
