@@ -1,8 +1,8 @@
 # PASS-DSA-CPP
-A supplementary CS program for Murdoch university undergraduates in C++.  
-Also know as ICT283 Data Strucutres and Abstractions in C++. 
+  Also known as ICT283 Data Strucutres and Abstractions in C++, this was a supplementary program conducted for Murdoch University undergraduates during my tenure as a teaching assistant from December 2019 to April 2022.  
 
 ## Website 
+For students unfamiliar with github, a simple LMS designed to simplify access to resources and session recordings.
 https://ict283.github.io/ict283pass/
 
 # Getting Started
