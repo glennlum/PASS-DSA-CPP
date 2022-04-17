@@ -50,3 +50,10 @@ https://ict283.github.io/ict283pass/
 - Introduction to Stacks
 - Introduction to Queues
 - OOP & FNAF
+
+# Session 7
+- Function Pointers
+- Introduction to Binary Search Trees ( BSTs )
+- Binary Search Tree Operations
+- Binary Search Tree Traversal
+- OOP & Detroit: Become Human
