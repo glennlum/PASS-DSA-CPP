@@ -57,3 +57,13 @@ https://ict283.github.io/ict283pass/
 - Binary Search Tree Operations
 - Binary Search Tree Traversal
 - OOP & Detroit: Become Human
+
+# Session 8
+- Recap: Recursion
+- Recap: BST Traversal
+- A Note on Complexity
+- The BST Problem
+- Introduction to AVL Trees
+- Introduction to Multiway Trees
+- Introduction to B and B+ Trees
+- Assignment 2 Discussion
