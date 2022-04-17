@@ -18,3 +18,10 @@ https://ict283.github.io/ict283pass/
 - C-style strings
 - Structs
 - Classes
+
+# Session 3
+- File I/O
+- Operator Overloading
+- Introduction to STL
+- Template Classes
+- Introduction to Vectors
