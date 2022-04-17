@@ -1,0 +1,85 @@
+Pseudocode for SET Operations (from Lecture 19)
+
+SUBSET
+IsSubsetOf (other)
+ Boolean subset = true
+ WHILE more elements in this set AND
+     more elements in the other set AND 
+  subset = true
+ IF this element = other element
+ Get next element from each set
+ ELSE IF this element < other element
+ subset = false
+ ELSE
+ Get next element from other set
+ ENDIF
+ ENDWHILE
+ IF more elements in this set
+ subset = false
+ ENDIF
+END IsSubsetOf
+
+---
+
+UNION
+Union (other, newSet) 
+ WHILE more elements in this set AND
+     more elements in the other set
+ IF this element = other element
+ Add this element into newSet
+ Get next element from each set
+ ELSE IF this element < other element
+ Add this element to newSet
+ Get next element from this set
+ ELSE
+ Add other element to newSet
+ Get next element from other set
+ ENDIF
+ ENDWHILE
+ WHILE more elements in this set
+ Add this element to newSet
+ Get next element from this set
+ ENDWHILE
+ WHILE more elements in other set
+ Add other element to newSet
+ Get next element from other set
+ ENDWHILE
+END Union 
+
+---
+
+INTERSECTION
+Intersection (other, newSet) 
+ WHILE more elements in this set AND
+     more elements in the other set
+ IF this element = other element
+ Add this element into newSet
+ Get next element from each set
+ ELSE IF this element < other element
+ Get next element from this set
+ ELSE
+ Get next element from other set
+ ENDIF
+ ENDWHILE
+END Intersecton
+
+---
+
+DIFFERENCE
+Difference(other, newSet) 
+ WHILE more elements in this set AND
+     more elements in the other set
+ IF this element = other element
+ Get next element from each set
+ ELSE IF this element < other element [2]
+ Add this element to newSet
+ Get next element from this set
+ ELSE
+ Get next element from other set
+ ENDIF
+ ENDWHILE
+ WHILE more elements in this set
+ Add this element to newSet
+ Get next element from this container
+ ENDWHILE
+END Difference

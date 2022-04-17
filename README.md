@@ -33,3 +33,11 @@ https://ict283.github.io/ict283pass/
 - Pointers: Shallow Copy vs. Deep Copy
 - Assignment 1 Discussion
 - STL Implemented Vector Class
+
+# Session 5
+- Class Types (2 of 2)
+- Inheritance and Polymorphism (2 of 2)
+- OOP & Pokemon
+- Introduction to Maps
+- Introduction to Sets
+- Assignment 1 Discussion
