@@ -67,3 +67,17 @@ https://ict283.github.io/ict283pass/
 - Introduction to Multiway Trees
 - Introduction to B and B+ Trees
 - Assignment 2 Discussion
+
+# Session 9
+- A Note on Complexity
+- Introduction to Search Algorithms
+- Introduction to Sorting Algorithms
+- Assignment 2 Discussion
+- Finding Your Way: MOOCs
+
+# Session 10
+- A Note on Complexity
+- Introduction to Hash Tables
+- Assignment 2 Discussion
+- Examination Q&A
+- Thank You!
