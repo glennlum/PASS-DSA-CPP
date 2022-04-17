@@ -4,5 +4,11 @@ A supplementary CS program for Murdoch university undergraduates in C++. Also kn
 ## Website 
 https://ict283.github.io/ict283pass/
 
-## Discord
-OfficePlant#2102
+# Session 1
+- Introduction to C++
+- C++ Basics
+- Loops & Control Structures
+- References
+- Pointers
+- Functions: Basics
+- Functions: Parameter Passing
