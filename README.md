@@ -12,3 +12,9 @@ https://ict283.github.io/ict283pass/
 - Pointers
 - Functions: Basics
 - Functions: Parameter Passing
+
+# Session 2
+- Arrays
+- C-style strings
+- Structs
+- Classes
