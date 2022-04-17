@@ -5,6 +5,9 @@ Also know as ICT283 Data Strucutres and Abstractions in C++.
 ## Website 
 https://ict283.github.io/ict283pass/
 
+# Getting Started
+C++ development setup guide
+
 # Session 1
 - Introduction to C++
 - C++ Basics
